@@ -37,7 +37,7 @@
 <a href = 'https://www.twitter.com/nuno_bento_90'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/nbentoneves'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<h2> Coding time 🚀</h2>
+<h2> Coding time 🚀 (last 7 days) </h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nbentoneves&layout=compact"/>
 <br>
 
